@@ -68,6 +68,7 @@ const sidebars: SidebarsConfig = {
             "introduction/Developer-Guide/Initialize-Viewer",
             "introduction/Developer-Guide/openFile",
             "introduction/Developer-Guide/SetUser",
+            "introduction/Developer-Guide/watermark",
           ],
         },
         {
